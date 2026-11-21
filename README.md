@@ -6,6 +6,7 @@
 
 <p align="center">
 <table align="center"><tr>
+<td><a href="https://coolkta.me" target="blank"><img src="https://static.thenounproject.com/png/365220-200.png" alt="github" height="30" width="40" /></a></td>
 <td><a href="mailto:nirbhu@proton.me"><img src="https://cdn.simpleicons.org/proton/8B5CF6" alt="Proton" height="28" width="28" /></a></td>
 <td><a href="https://github.com/nirbhontop" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a></td>
 <td><a href="https://youtube.com/nxisi" target="blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="28" width="28" /></a></td>
